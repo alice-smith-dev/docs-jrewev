@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-46ni9i.haybaleman.co.nz/sitemap.xml
